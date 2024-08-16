@@ -1,0 +1,17 @@
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  height: 72px;
+  background-color: rgb(216, 216, 216);
+  margin: 0;
+
+}
+nav ul{
+  display: flex;
+  gap: 24px;
+  list-style-type: none;
+  font-weight: 800;
+  
+}
